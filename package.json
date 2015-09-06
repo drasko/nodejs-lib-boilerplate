@@ -1,0 +1,17 @@
+{
+  "name": "coreflux",
+  "description": "Coreflux is a set of NodeJS libraries for implementation of LWM2M servers and clients.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mainflux/coreflux"
+  },
+  "dependencies": {
+    "coap": "^0.12.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-nodemon": "^2.0.3",
+    "jshint-stylish": "^2.0.1"
+  }
+}
